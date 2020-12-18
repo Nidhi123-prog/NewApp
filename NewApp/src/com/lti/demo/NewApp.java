@@ -7,7 +7,5 @@ public class NewApp {
 		
 	}
 	
-	public void sub() {
-		System.out.println("New method added");
-	}
+	
 }
