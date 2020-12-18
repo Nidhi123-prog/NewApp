@@ -8,6 +8,6 @@ public class NewApp {
 	}
 	
 	public void sub() {
-		System.out.println("New method");
+		System.out.println("New method added");
 	}
 }
