@@ -6,4 +6,8 @@ public class NewApp {
 		System.out.println("Hello!! World");
 		
 	}
+	
+	public void sub() {
+		System.out.println("New method");
+	}
 }
