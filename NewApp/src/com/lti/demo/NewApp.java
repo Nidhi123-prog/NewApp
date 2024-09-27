@@ -3,8 +3,7 @@ package com.lti.demo;
 public class NewApp {
 
 	public void add() {
-		System.out.println("feature branch");
-	
+     System.out.println("nothm");
 		
 	}
 	
